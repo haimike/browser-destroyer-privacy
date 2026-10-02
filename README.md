@@ -1,0 +1,1 @@
+# browser-destroyer-privacy
